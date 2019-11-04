@@ -8,4 +8,4 @@ Making a function that sorts the string **in-place** and **linear time complexit
 
 example:
 
-input string is "grgrrbgbbrg", output should be "rrrggggbbb".
+input string is "grgrrbgbbrg", output should be "rrrrggggbbb".
